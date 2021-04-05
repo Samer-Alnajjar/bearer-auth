@@ -14,6 +14,7 @@ const authRoutes = require('./auth/routes.js');
 // Prepare the express app
 const app = express();
 
+
 const PORT = process.env.PORT;
 
 // App Level MW
